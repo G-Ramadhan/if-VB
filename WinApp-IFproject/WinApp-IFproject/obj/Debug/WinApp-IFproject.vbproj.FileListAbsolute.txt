@@ -1,0 +1,10 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-IFproject\WinApp-IFproject\bin\Debug\WinApp-IFproject.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-IFproject\WinApp-IFproject\bin\Debug\WinApp-IFproject.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-IFproject\WinApp-IFproject\bin\Debug\WinApp-IFproject.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-IFproject\WinApp-IFproject\bin\Debug\WinApp-IFproject.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-IFproject\WinApp-IFproject\obj\Debug\WinApp_IFproject.Form1.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-IFproject\WinApp-IFproject\obj\Debug\WinApp_IFproject.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-IFproject\WinApp-IFproject\obj\Debug\WinApp-IFproject.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-IFproject\WinApp-IFproject\obj\Debug\WinApp-IFproject.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-IFproject\WinApp-IFproject\obj\Debug\WinApp-IFproject.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-IFproject\WinApp-IFproject\obj\Debug\WinApp-IFproject.pdb
